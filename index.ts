@@ -6,13 +6,13 @@ const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>`;
 
 class ByteData {
-  type: 'byte';
+  // type: 'byte';
 }
 class PacketData {
-  type: 'packet';
+  // type: 'packet';
 }
 class IssuesData {
-  type: 'IssuesData';
+  // type: 'IssuesData';
 }
 class BarChartData {
   flag: 1;
